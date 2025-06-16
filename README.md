@@ -143,8 +143,8 @@ The generator creates two types of CSV files in the `timetables` directory:
 ## 🤝 Contributing
 TEAMMATE 
 
-**PRAJAKTA ATAPADKAR**
-**ANSHIT PARETA**
+**PRAJAKTA ATAPADKAR** ,
+**ANSHIT PARETA** ,
 **UJJWAL RAJ** 
 
 Contributions are welcome! Please feel free to submit a Pull Request.
